@@ -2,7 +2,10 @@
   <div>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" />
   </div>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello+there!+👋;I'm+Vinicius+Fernandes!" />
   
+  <br clear="both">
   <br clear="both">
   
   <div align="center">
@@ -17,7 +20,7 @@
 
   <br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Frontend+Developer+in+Training" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Frontend+Developer+in+Training" />
   
   <hr>
   
@@ -53,7 +56,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+<img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" height="40" alt="github logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   </div>
