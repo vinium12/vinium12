@@ -1,34 +1,54 @@
-<div align="center">
-
-  <!-- Y2K Aesthetic Capsule Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:3b0764,100:00f0ff&height=200&section=header&text=Vinicius%20Fernandes&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FullStack%20Developer%20%E2%80%A2%20Front-end%20Specialist&descFontSize=18&descFontColor=00f0ff&descAlignY=62" width="100%" alt="Vinicius Fernandes Header" />
-
-  <br />
-
-  <!-- Status & Social Pills -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="26" alt="LinkedIn" />
-    </a>
-    <a href="mailto:seuemail@exemplo.com">
-      <img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" height="26" alt="Email" />
-    </a>
-    <img src="https://img.shields.io/badge/Status-Online%20%E2%9C%A7-00f0ff?style=flat-square&logoColor=000&labelColor=0d0221" height="26" />
-    <img src="https://img.shields.io/badge/Vibe-Cyber_Y2K-ff007f?style=flat-square&logoColor=fff&labelColor=0d0221" height="26" />
-  </p>
-
-</div>
-
-<br />
-
-### ✦ `ABOUT_ME`
-
-> Olá! Sou **Vinicius Fernandes**, desenvolvedor Fullstack com forte atuação em **Frontend & UI/UX**. Focado na criação de interfaces fluidas, modernas e aplicações escaláveis.
-
-```json
-{
-  "developer": "Vinicius Fernandes",
-  "username": "@vinium12",
-  "focus": ["Frontend Architecture", "UI/UX Experience", "Fullstack Systems"],
-  "location": "Brasil"
-}
+<!-- =========================================================================
+  GITHUB PROFILE README - VINICIUS
+  Estrutura / Casca baseada no modelo Figma
+========================================================================= -->
+<div align="center" style="margin: 0 15px;">
+  <!-- =======================================================================
+    1. HEADER BANNER (Hello World! I'm Vinicius)
+  ======================================================================== -->
+  <!-- SUBTITUA 'BANNER_URL' PELA URL DA SUA IMAGEM DE HEADER SE FOR IMAGEM EXPORTADA DO FIGMA -->
+  <!-- OU UTILIZE ESTE BLOCO HTML CASO DESEJE TEXTO DIRETO NO GITHUB -->
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="left" bgcolor="#0d1117" style="padding: 25px; border-radius: 8px;">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="top" align="left">
+              <h1 style="font-family: monospace; color: #ffffff; margin: 0; font-size: 28px;">Hello World!</h1>
+              <h1 style="font-family: monospace; color: #ffffff; margin: 5px 0 15px 0; font-size: 32px;">I'm <b>Vinicius</b></h1>
+            </td>
+            <td valign="top" align="right" style="font-family: monospace; color: #8b949e; font-size: 12px; line-height: 1.5;">
+              <code>
+                // PROFILE_DATAROLE:<br/>
+                Software Developer & Hardware Enthusiast<br/>
+                BASE: São Paulo, BR<br/>
+                STATUS: Building scalable systems and forging code.<br/>
+                &gt; Awaiting command_
+              </code>
+            </td>
+          </tr>
+        </table>
+        <br/>
+        <!-- BOTÕES / BUTTONS -->
+        <div align="center">
+          <a href="LINK_DO_LINKEDIN_AQUI">
+            <img src="https://img.shields.io/badge/LINKEDIN-11161d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          </a>
+          &nbsp;&nbsp;
+          <a href="mailto:SEU_EMAIL@GMAIL.COM">
+            <img src="https://img.shields.io/badge/GMAIL-11161d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <!-- =======================================================================
+    2. SEÇÃO: ABOUT ME + AVATAR DOCTOR DOOM
+  ======================================================================== -->
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <!-- ESQUERDA: ABOUT ME (65% WIDE) -->
+      <td width="65%" valign="top" align="left" bgcolor="#0d1117" style="padding: 20px; border-radius: 8px;">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
