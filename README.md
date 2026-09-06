@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td align="center">
-<img src="./assets/Banner.jpg" alt="Header Banner Vinicius" width="100%"/>
+<img src="./assets/Banner.png" alt="Header Banner Vinicius" width="100%"/>
 </td>
 </tr>
 </table>
@@ -31,7 +31,7 @@ Beyond software development, I actively work on hardware projects. My research a
 </p>
 </td>
 <td width="40%" valign="middle" align="center">
-<img src="./assets/doom-hologram.gif" alt="Doctor Doom Avatar" width="100%"/>
+<img src="./assets/doom-hologram.webp" alt="Doctor Doom Avatar" width="100%"/>
 </td>
 </tr>
 </table>
