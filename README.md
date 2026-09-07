@@ -9,16 +9,8 @@
 <!-- SOCIAL LINKS -->
 <!-- ====================================================== -->
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_USER" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <a href="https://linkedin.com/in/vinicius-fernandes-dev" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:fernandes.viniciusdelima@gmail.com"><img src="https://img.shields.io/badge/GMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
-
-<br />
 
 <!-- ====================================================== -->
 <!-- ABOUT ME + DOCTOR DOOM -->
@@ -55,8 +47,6 @@
 </td>
 </tr>
 </table>
-
-<br />
 
 <!-- ====================================================== -->
 <!-- GITHUB STATISTICS -->
