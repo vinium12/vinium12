@@ -23,9 +23,11 @@
 <td width="60%" valign="top" align="left">
 <img align="right" src="./assets/Status.gif" alt="Status: 200 OK" width="140" />
 <h3>About Me</h3>
-<p>I am a Software Developer Intern and Systems Analysis student at FATEC, focused on engineering scalable web architectures and managing server infrastructure.</p>
-<p>My technical stack centers around TypeScript, React, Node.js, and relational databases, where I prioritize efficient system integrations and clean code.</p>
-<p>Beyond software development, I actively work on hardware projects. My research and development involve IoT systems, 3D printing robotics, and reverse-engineering legacy ARM motherboards.</p>
+<p>I am a Software Developer Intern and Systems Analysis student at FATEC, passionate about building reliable software and understanding how systems work as a whole.
+
+My technical stack centers around TypeScript, React, Node.js, APIs, and relational databases. I work across both frontend and backend development, with a strong interest in backend architecture, system integration, scalability, and clean, maintainable code.
+
+I am constantly looking to expand my technical knowledge by working on practical projects and exploring new technologies. My goal is to develop efficient solutions, improve my engineering skills, and build software that is both well-structured and purposeful.</p>
 </td>
 <td width="40%" valign="middle" align="center">
 <img src="./assets/doom-hologram.webp" alt="Doctor Doom Avatar" width="100%" />
