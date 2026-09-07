@@ -23,54 +23,37 @@
 <!-- ====================================================== -->
 <!-- ABOUT ME + DOCTOR DOOM -->
 <!-- ====================================================== -->
+<!-- ====================================================== -->
+<!-- ABOUT ME + DOCTOR DOOM -->
+<!-- ====================================================== -->
 <table width="100%">
-  <tr>
-    <td width="60%" valign="top" align="left">
-      <h3>
-        About Me
-        <img align="right" src="./assets/Status.gif" alt="Status: 200 OK" width="150px" />
-      </h3>
-      <p>
-        I am a Software Developer Intern and Systems Analysis student at FATEC,
-        focused on engineering scalable web architectures and managing server infrastructure.
-      </p>
-      <p>
-        My technical stack centers around TypeScript, React, Node.js, and
-        relational databases, where I prioritize efficient system integrations
-        and clean code.
-      </p>
-      <p>
-        Beyond software development, I actively work on hardware projects.
-        My research and development involve IoT systems, 3D printing robotics,
-        and reverse-engineering legacy ARM motherboards.
-      </p>
-    </td>
-    <td width="40%" valign="middle" align="center">
-      <img src="./assets/doom-hologram.webp" alt="Doctor Doom Avatar" width="100%" />
-    </td>
-  </tr>
+<tr>
+<td width="60%" valign="top" align="left">
+<img align="right" src="./assets/Status.gif" alt="Status: 200 OK" width="140" />
+<h3>About Me</h3>
+<p>I am a Software Developer Intern and Systems Analysis student at FATEC, focused on engineering scalable web architectures and managing server infrastructure.</p>
+<p>My technical stack centers around TypeScript, React, Node.js, and relational databases, where I prioritize efficient system integrations and clean code.</p>
+<p>Beyond software development, I actively work on hardware projects. My research and development involve IoT systems, 3D printing robotics, and reverse-engineering legacy ARM motherboards.</p>
+</td>
+<td width="40%" valign="middle" align="center">
+<img src="./assets/doom-hologram.webp" alt="Doctor Doom Avatar" width="100%" />
+</td>
+</tr>
 </table>
-
-<br />
-
 <!-- ====================================================== -->
 <!-- STARK + LANGUAGES & TOOLS -->
 <!-- ====================================================== -->
 <table width="100%">
-  <tr>
-    <td width="510" align="center" valign="middle">
-      <img src="./assets/Stark.gif" alt="Stark Animation" width="100%" />
-    </td>
-    <td width="510" align="center" valign="middle">
-      <h3 align="center">LANGUAGES &amp; TOOLS</h3>
-      <br />
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,postgres,mysql,docker,git,linux&perline=3" alt="Languages and Tools" />
-        </a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="510" align="center" valign="middle">
+<img src="./assets/Stark.gif" alt="Stark Animation" width="100%" />
+</td>
+<td width="510" align="center" valign="top">
+<h3 align="center">LANGUAGES &amp; TOOLS</h3>
+<br />
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vscode,figma,git,github,mysql&perline=5" alt="Languages and Tools" /></a></p>
+</td>
+</tr>
 </table>
 
 <br />
@@ -78,27 +61,19 @@
 <!-- ====================================================== -->
 <!-- GITHUB STATISTICS -->
 <!-- ====================================================== -->
+<!-- ====================================================== -->
+<!-- SNAKE + STREAK STATS -->
+<!-- ====================================================== -->
 <table width="100%">
-  <tr>
-    <td width="510" align="center" valign="middle">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=vinium12&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&locale=en"
-        alt="GitHub Stats"
-        width="100%"
-      />
-    </td>
-    <td width="510" align="center" valign="middle">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinium12&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&locale=en"
-        alt="Top Languages"
-        width="100%"
-      />
-    </td>
-  </tr>
+<tr>
+<td width="510" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/vinium12/vinium12/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
+</td>
+<td width="510" align="center" valign="middle">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinium12&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+</td>
+</tr>
 </table>
-
-<br />
-
 <!-- ====================================================== -->
 <!-- STEVE JOBS QUOTE (BANNER) -->
 <!-- ====================================================== -->
